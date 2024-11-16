@@ -82,6 +82,19 @@ Reduced variance in predictions for more stable performance.
 ├── notebooks/                # Jupyter notebooks for EDA and experimentation  
 ├── README.md                 # Project documentation 
 ```
+**Tools & Libraries**
+
+tensorflow==2.12.0
+
+numpy==1.23.1
+
+pandas==1.5.2
+
+scikit-learn==1.0.2
+
+matplotlib==3.5.0
+
+
 **🔗 References**
 
 APTOS 2019 Blindness Detection Dataset: Kaggle Challenge [APTOS DATASET](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
