@@ -5,13 +5,6 @@
 
 Diabetic Retinopathy (DR) is a severe complication of diabetes that can lead to permanent blindness if left untreated. This project leverages deep learning techniques to automate the detection of DR stages from retinal fundus images, providing a scalable solution to assist healthcare professionals in early diagnosis and prevention of vision loss.
 
-🌟 **Key Features**
-
-Multi-Class Classification: Detection of five DR stages: No DR, Mild, Moderate, Severe, and Proliferative DR.
-Advanced CNN Models: Utilized EfficientNet and Multi-Level EfficientNet for optimal performance.
-Data Augmentation: Real-time augmentations including rotation, flipping, and brightness adjustments to enhance generalization.
-Ensemble Learning: Combined predictions from multiple models to improve accuracy and stability.
-Comprehensive Evaluation: Assessed using sensitivity, specificity, and AUROC.
 
 **📂 Dataset**
 
