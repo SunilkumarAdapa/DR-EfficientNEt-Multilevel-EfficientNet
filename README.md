@@ -7,7 +7,7 @@ Diabetic Retinopathy (DR) is a severe complication of diabetes that can lead to 
 [Paper]
 [A_DeepLearning_Approach_for_Classifying_Diabetic_Retinopathy_Stages.pdf](https://github.com/user-attachments/files/17795195/A_DeepLearning_Approach_for_Classifying_Diabetic_Retinopathy_Stages.pdf)
 
-**WebAPP** : [Web APP Link](https://huggingface.co/spaces/sunil18p31a0101/Diabetic_Retinopathy_Classification)
+**WebAPP(Gradio)** : [Web APP Link](https://huggingface.co/spaces/sunil18p31a0101/Diabetic_Retinopathy_Classification)
 ![Screenshot 2024-11-18 134851](https://github.com/user-attachments/assets/0b42c8d1-8954-455b-86cb-0b5ad82832c5)
 
 
