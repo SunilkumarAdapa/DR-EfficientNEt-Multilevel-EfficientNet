@@ -4,6 +4,7 @@
 
 
 Diabetic Retinopathy (DR) is a severe complication of diabetes that can lead to permanent blindness if left untreated. This project leverages deep learning techniques to automate the detection of DR stages from retinal fundus images, providing a scalable solution to assist healthcare professionals in early diagnosis and prevention of vision loss.
+[Paper Link](https://www.overleaf.com/project/672d98d12b7492888d1b2382)
 
 
 **📂 Dataset**
