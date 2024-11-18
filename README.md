@@ -70,6 +70,10 @@ Area Under the Receiver Operating Characteristic (AUROC) Curve
 The ensemble model demonstrated:
 Improved classification accuracy across all stages of DR.
 Reduced variance in predictions for more stable performance.
+![Resukts](https://github.com/user-attachments/assets/fbefc8a6-e0d5-4139-a78d-398440a97f12)
+
+
+![Screenshot 2024-11-16 160737](https://github.com/user-attachments/assets/fe6559ea-bd10-4624-b7dd-b74de732ab37)
 
 **📂 Repository Structure**
 ``` bash
