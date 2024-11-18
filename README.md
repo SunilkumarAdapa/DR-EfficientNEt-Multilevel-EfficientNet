@@ -23,7 +23,7 @@ Imbalanced Distribution: Majority of images labeled as "No DR," with fewer sampl
 **🧠 Network Architecture**
 
 *Model Design:*
-EfficientNet:
+EfficientNet:[EfficientNet Paper](https://arxiv.org/abs/1905.11946)
 
 Pre-trained on ImageNet for feature-rich representations.
 Fine-tuned for medical imaging tasks.
